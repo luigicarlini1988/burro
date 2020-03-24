@@ -1,3 +1,2 @@
 # burro
-test sulla fermentazione lattica
-possibilmente senza glutine
+test sulla fermentazione lattica possibilmente senza glutine
